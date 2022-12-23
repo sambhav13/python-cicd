@@ -6,5 +6,5 @@ def test_sum_tuple():
 
 if __name__ == "__main__":
     test_sum()
-    #test_sum_tuple()
+    test_sum_tuple()
     print("Everything passed")
